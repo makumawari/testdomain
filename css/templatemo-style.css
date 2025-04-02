@@ -535,6 +535,7 @@ figure.effect-sadie:hover p {
 	margin-bottom: 0;
 	color: white;
 	text-shadow: 2px 2px 6px #000;
+	opacity: 0.1;
 }
 .cd-hero-slider .selected .cd-full-width p.tm-figure-description {
     font-weight: 600;
